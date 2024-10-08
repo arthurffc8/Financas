@@ -10,7 +10,7 @@
 Clique na imagem para visualizar o dashboard interativo no Power BI:
 
 
-[![ProjetoGame](https://github.com/arthurffc8/MeusProjetos/blob/main/ProjetoFinanceiro/DashFinanceiro.png)](https://app.powerbi.com/view?r=eyJrIjoiODI4NjI2ZTYtMzE4ZC00MDYxLTk3OWItNTIxOGFhYWVlYjFlIiwidCI6ImRmY2E2YzQyLWM0NjktNDg1Ny05NDk5LWViN2YzNjczZjY4NCJ9)
+[![ProjetoGame](https://github.com/arthurffc8/Financas/blob/main/DashFinanceiro.png)](https://app.powerbi.com/view?r=eyJrIjoiODI4NjI2ZTYtMzE4ZC00MDYxLTk3OWItNTIxOGFhYWVlYjFlIiwidCI6ImRmY2E2YzQyLWM0NjktNDg1Ny05NDk5LWViN2YzNjczZjY4NCJ9)
 
 
 
