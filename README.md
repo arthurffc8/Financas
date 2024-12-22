@@ -2,8 +2,6 @@
 
 - Temos uma Base de Dados (`Base Financeiro.xlsx`) com histórico de transações e movimentações financeiras de uma empresa.
 - A Base de dados fornece o número da movimentação, o nome juridico da pessoa, o município da sede da empresa da transação, o valor da movimentação, o tipo (se foi de recebimento ou pagamento), além do banco utilizado na movimentação.
-- [DashboardFinanceiro](https://app.powerbi.com/view?r=eyJrIjoiODI4NjI2ZTYtMzE4ZC00MDYxLTk3OWItNTIxOGFhYWVlYjFlIiwidCI6ImRmY2E2YzQyLWM0NjktNDg1Ny05NDk5LWViN2YzNjczZjY4NCJ9): Este projeto realiza uma análise da popularidade dos filmes lançados ao longo do tempo. 
-
 
 # Dashboard Financeiro
 
